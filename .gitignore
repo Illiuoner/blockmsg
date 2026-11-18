@@ -1,0 +1,10 @@
+*.keystore
+*.jks
+*.iml
+**/.gradle/
+**/.kotlin/
+**/.idea/
+**/build/
+**/local.properties
+ru/dist/
+en/dist/
